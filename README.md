@@ -1,8 +1,8 @@
 <a id="top"></a>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&amp;color=0:051610,55:09241A,100:124333&amp;height=192&amp;section=header&amp;text=LEAGUE+OF+LEGENDS&amp;fontColor=F4FFF9&amp;fontSize=43&amp;fontAlignY=41&amp;fontAlign=50&amp;desc=STATUS+%2F+DESKTOP+WORKSPACE&amp;descSize=15&amp;descAlignY=67&amp;descAlign=50" />
-  <img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:F0FFF7,55:DDF8EA,100:B8EBD3&amp;height=192&amp;section=header&amp;text=LEAGUE+OF+LEGENDS&amp;fontColor=103F2B&amp;fontSize=43&amp;fontAlignY=41&amp;fontAlign=50&amp;desc=STATUS+%2F+DESKTOP+WORKSPACE&amp;descSize=15&amp;descAlignY=67&amp;descAlign=50" alt="Cyber Terminal banner: LEAGUE OF LEGENDS" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&amp;color=0:051610,55:09241A,100:124333&amp;height=192&amp;section=header&amp;text=LEAGUE%20OF%20LEGENDS&amp;fontColor=F4FFF9&amp;fontSize=43&amp;fontAlignY=41&amp;fontAlign=50&amp;desc=STATUS%20%2F%20DESKTOP%20WORKSPACE&amp;descSize=15&amp;descAlignY=67&amp;descAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:F0FFF7,55:DDF8EA,100:B8EBD3&amp;height=192&amp;section=header&amp;text=LEAGUE%20OF%20LEGENDS&amp;fontColor=103F2B&amp;fontSize=43&amp;fontAlignY=41&amp;fontAlign=50&amp;desc=STATUS%20%2F%20DESKTOP%20WORKSPACE&amp;descSize=15&amp;descAlignY=67&amp;descAlign=50" alt="Cyber Terminal banner: LEAGUE OF LEGENDS" width="100%" />
 </picture>
 
 `root@lol:~/workspace$` **READY** `▌`
