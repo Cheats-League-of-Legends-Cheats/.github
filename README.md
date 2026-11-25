@@ -1,15 +1,15 @@
 <a id="top"></a>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&amp;color=0:051610,55:09241A,100:124333&amp;height=192&amp;section=header&amp;text=LEAGUE%20OF%20LEGENDS&amp;fontColor=F4FFF9&amp;fontSize=43&amp;fontAlignY=41&amp;fontAlign=50&amp;desc=STATUS%20%2F%20DESKTOP%20WORKSPACE&amp;descSize=15&amp;descAlignY=67&amp;descAlign=50" />
-  <img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:F0FFF7,55:DDF8EA,100:B8EBD3&amp;height=192&amp;section=header&amp;text=LEAGUE%20OF%20LEGENDS&amp;fontColor=103F2B&amp;fontSize=43&amp;fontAlignY=41&amp;fontAlign=50&amp;desc=STATUS%20%2F%20DESKTOP%20WORKSPACE&amp;descSize=15&amp;descAlignY=67&amp;descAlign=50" alt="Cyber Terminal banner: LEAGUE OF LEGENDS" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&color=0:051610,55:09241A,100:124333&height=192&section=header&text=LEAGUE%20OF%20LEGENDS&fontColor=F4FFF9&fontSize=43&fontAlignY=41&fontAlign=50&desc=STATUS%20%2F%20DESKTOP%20WORKSPACE&descSize=15&descAlignY=67&descAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:F0FFF7,55:DDF8EA,100:B8EBD3&height=192&section=header&text=LEAGUE%20OF%20LEGENDS&fontColor=103F2B&fontSize=43&fontAlignY=41&fontAlign=50&desc=STATUS%20%2F%20DESKTOP%20WORKSPACE&descSize=15&descAlignY=67&descAlign=50" alt="Cyber Terminal banner: LEAGUE OF LEGENDS" width="100%" />
 </picture>
 
 `root@lol:~/workspace$` **READY** `▌`
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?font=Fira+Code&amp;size=19&amp;color=2EE59D&amp;center=false&amp;vCenter=true&amp;width=650&amp;height=54&amp;duration=3000&amp;pause=850&amp;repeat=true&amp;lines=Initializing+LoL+overlay...;Loading+champion+modules...;Ready+to+dominate+the+Rift." />
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&amp;size=19&amp;color=136947&amp;center=false&amp;vCenter=true&amp;width=650&amp;height=54&amp;duration=3000&amp;pause=850&amp;repeat=true&amp;lines=Initializing+LoL+overlay...;Loading+champion+modules...;Ready+to+dominate+the+Rift." alt="Cyber Terminal animated typing text" width="650" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=19&color=2EE59D&center=false&vCenter=true&width=650&height=54&duration=3000&pause=850&repeat=true&lines=Initializing+LoL+overlay...;Loading+champion+modules...;Ready+to+dominate+the+Rift." />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=19&color=136947&center=false&vCenter=true&width=650&height=54&duration=3000&pause=850&repeat=true&lines=Initializing+LoL+overlay...;Loading+champion+modules...;Ready+to+dominate+the+Rift." alt="Cyber Terminal animated typing text" width="650" />
 </picture>
 
 ![VERSION: v3.7](https://img.shields.io/badge/VERSION-v3.7-187B58?style=flat-square&labelColor=081711) ![PLATFORM: WINDOWS](https://img.shields.io/badge/PLATFORM-WINDOWS-377F61?style=flat-square&labelColor=081711) ![STATUS: ONLINE](https://img.shields.io/badge/STATUS-ONLINE-65716E?style=flat-square&labelColor=081711)
